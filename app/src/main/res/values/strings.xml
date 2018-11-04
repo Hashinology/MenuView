@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuView</string>
+    <string name="menu_no_1">Menu No. 1</string>
+    <string name="menu_no_2">Menu No. 2</string>
+    <string name="submenu_no_1">SubMenu No. 1</string>
+    <string name="submenu_no_2">SubMenu No. 2</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="Another_Activity">Another Activity</string>
+</resources>
